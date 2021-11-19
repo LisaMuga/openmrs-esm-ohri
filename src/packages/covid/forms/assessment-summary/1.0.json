@@ -1,5 +1,5 @@
 {
-  "name": "COVID Assessment Summary",
+  
   "pages": [
     {
       "label": "Assessment",
@@ -12,7 +12,7 @@
               "label": "Reasons for testing",
               "type": "obs",
               "questionOptions": {
-                "rendering": "checkbox",
+                "rendering": "fixed value",
                 "concept": "ae46f4b1-c15d-4bba-ab41-b9157b82b0ce",
                 "answers": [
                   {
